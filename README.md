@@ -27,7 +27,7 @@ Få stemme kontrol over lyd til at virke mere flydende.
 
 ## Deployment hjemmeside
 
-https://zxstai.github.io/Stemme-Genkendelse/
+https://bergman12.github.io/Stemme-Genkendelse/
 
 ## Built With
 
